@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android_gradle</string>
+    <string name="app_name_xiaomi">小米渠道</string>
+    <string name="app_name_huawei">华为渠道</string>
+</resources>
